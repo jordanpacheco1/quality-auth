@@ -67,7 +67,7 @@ const Home: React.FC = () => {
             type="submit"
             fullWidth
             variant="contained"
-            color="primary"
+            color="secondary"
             className={classes.submit}
             onClick={handleLogout}
           >
